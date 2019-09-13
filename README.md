@@ -8,3 +8,7 @@ http://hsealgebra20.wikidot.com
 2016) http://hsealgebra17.wikidot.com/
 2017) http://hsealgebra18.wikidot.com/
 2018) http://hsealgebra19.wikidot.com/
+
+### Дискретка
+
+http://intrologic.stanford.edu/lessons/lessons.html

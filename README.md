@@ -4,6 +4,7 @@
 http://hsealgebra20.wikidot.com
 
 Материалы прошлых лет:
-http://hsealgebra17.wikidot.com/
-http://hsealgebra18.wikidot.com/
-http://hsealgebra19.wikidot.com/
+
+2016) http://hsealgebra17.wikidot.com/
+2017) http://hsealgebra18.wikidot.com/
+2018) http://hsealgebra19.wikidot.com/
